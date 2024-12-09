@@ -21,7 +21,7 @@ $result = $db->query($sql);
 
 // Close the database connection (do it at the end)
 ?>
-
+// tambah css ui
 <!DOCTYPE html>
 <html lang="en">
 <head>
